@@ -1,0 +1,361 @@
+<!doctype html>
+<html style="background: #fbfbfb">
+<head>
+    <title>Piematrix.com Confirm Account</title>
+    <meta customerName="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link href="http://www.piematrix.com/favicon.ico" rel="shortcut icon">
+    <style type="text/css">
+
+        /* Global CSS */
+
+        * {
+            -ms-text-size-adjust:100%;
+            -webkit-text-size-adjust:none;
+            -webkit-text-resize:100%;
+            text-resize:100%;
+        }
+        body { background: #fbfbfb }
+
+        /* Media queries for phones, tablets and Small Desktop */
+
+        @media only screen and (min-width: 501px) and (max-width: 768px) {
+            table {width: 475px !important; margin:auto!important;}
+            td[class=header-top-td-link]{display: block; text-align: center !important; width: 475px !important; margin:auto !important;line-height: 55px;}
+            td[class=icon-td]{display: none !important}
+            img[class=logo] {display: block; margin: auto;}
+            img[class=guide-img] {width: 475px; display: block;}
+        }
+
+        @media only screen and (min-width: 321px) and (max-width: 500px) {
+            table {width: 300px !important; }
+            td[class=header-top-td],
+            td[class=header-top-td-link]{display: block; width: 300px !important; margin:auto !important;line-height: 30px;}
+            td[class=icon-td]{display: none !important}
+            td[class=td-login] {display: block; width: 100% !important;}
+            td[class=td-mdp] {display: block; width: 100% !important;}
+            img[class=logo] {display: block; margin: auto;}
+            p[class=link-top]{text-align: center !important; line-height: 20px}
+            p[class=link-top]{width: auto !important}
+            p[class=td-login-txt-left]{text-align: center !important}
+            p[class=td-login-txt-right]{text-align: center !important}
+            img[class=guide-img] {width: 300px; display: block; margin: auto;}
+            td[class="icon-order-conf"] {padding-right: 15px; width: 15% !important;}
+        }
+
+        @media only screen and (max-width: 320px){
+            table {width: 270px !important; }
+            td[class=header-top-td],
+            td[class=header-top-td-link]{display: block; width: 270px !important; margin:auto !important;line-height: 30px;}
+            td[class=icon-td]{display: none !important}
+            td[class=td-login] {display: block; width: 100% !important;}
+            td[class=td-mdp] {display: block; width: 100% !important;}
+            img[class=logo] {max-width: 100%; margin:auto !important; display: block}
+            p[class=link-top]{text-align: center !important; width: auto !important; line-height: 20px}
+            p[class=td-login-txt-left]{text-align: center !important}
+            p[class=td-login-txt-right]{text-align: center !important}
+            img[class=guide-img] {width: 270px; display: block;}
+            td[class="icon-order-conf"] {padding-right: 15px; width: 15% !important;}
+        }
+
+    </style>
+</head>
+<body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" bgcolor="#fbfbfb" style="-webkit-text-size-adjust:none;background: #fbfbfb">
+<!--[if gte mso 12]>
+<style>
+    .btn{padding:10px !important;}
+    .btn a{padding:0 !important;}
+</style>
+<![endif]-->
+<table id="Table_01" align="center" width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#fbfbfb" style="background: #fbfbfb">
+    <!-- Header margins -->
+    <tr>
+        <td height="36" width="100%" align="left"></td>
+    </tr>
+    <!-- /Header margins -->
+    <!-- HEADER -->
+    <tr>
+        <td width="100%" valign="bottom" align="left" bgcolor="#1f1f1f" style="padding:5px 0;">
+            <table width="30%" cellpadding="0" cellspacing="0" align="left">
+                <tr>
+                    <!-- Logo -->
+                    <td class="header-top-td" width="68" align="left">
+                        <a customerName="" href="http://www.piematrix.com/" target="_blank"><img class="logo" src="cid:piematrix-logo" width="68" alt="PieMatrix Logo" border="0" style="border: none; display:block"></a>
+                    </td>
+                    <!-- /Logo -->
+                </tr>
+            </table>
+            <table width="60%" cellpadding="0" cellspacing="0" align="right">
+                <tr>
+                    <!-- Header quicklinks -->
+                    <td class="header-top-td-link" valign="bottom" align="right" style="padding: 20px 3px 0;">
+                        <font size="2" face="Tahoma" color="#dce1e5">
+                            <p class="link-top" style="margin: 0 0 5px; font-size: 14px;">
+                                <a customerName="" href="http://www.piematrix.com/" title="Modules" target="_blank" style="color: #fff; text-decoration: none;">Pie Overview</a> &nbsp; |  &nbsp;
+                                <a customerName="" href="http://www.piematrix.com/" title="Themes" target="_blank" style="color: #fff; text-decoration: none;">Customers</a>  &nbsp;| &nbsp;
+                                <a customerName="" href="http://www.piematrix.com/" title="Themes" target="_blank" style="color: #fff; text-decoration: none;">Blog</a>  &nbsp;| &nbsp;
+                                <a customerName="" href="http://www.piematrix.com/" title="Themes" target="_blank" style="color: #eea617; text-decoration: none; font-weight: bold;">Log In</a>&nbsp; &nbsp;
+                            </p>
+                        </font>
+                    </td>
+                    <!-- /Header quicklinks -->
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <!--  /HEADER -->
+    <!-- CONTENT -->
+    <tr>
+        <td>
+            <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="border: 1px solid #dce1e5;padding: 10px">
+                <!-- TITLE -->
+                <tr>
+                    <td width="2%">&nbsp;</td>
+                    <td height="75" width="96%" align="left">
+                        <p style="color:#000000;font-family: Tahoma; font-style:normal; font-size:28px; margin: 5px 0;">Welcome</p>
+                    </td>
+                    <td width="2%">&nbsp;</td>
+                </tr>
+                <!--  /TITLE -->
+                <!--  MAIL CONTENT -->
+                <tr>
+                    <td width="2%">&nbsp;</td>
+                    <td width="96%" align="left">
+                        <font size="2" face="Arial" color="#000000">
+                            <p style="font-size:14px; margin-bottom: 20px">
+                                Welcome to <b>PieMatrix</b>, your visual process improvement cloud software designed to help you manage complex and repeatable processes and projects that are critical for your business!<br/><br/>
+                                Below you will find the information needed to login into your account.
+                            </p>
+                        </font>
+                    </td>
+                    <td width="2%">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="2%">&nbsp;</td>
+                    <td width="96%" align="left">
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="border-bottom: 1px solid #dce1e5; border-top: 1px solid #dce1e5">
+                            <tr>
+                                <td align="left" width="150" class="td-login">
+                                    <font size="2" face="Arial" color="#000000">
+                                        <p style="font-size:14px; text-align: right; margin-bottom: 0; margin-top: 20px" class="td-login-txt-right">
+                                            <b>Your customerEmail customerAddress</b>:&nbsp;
+                                        </p>
+                                    </font>
+                                </td>
+                                <td align="right" width="200" class="td-mdp">
+                                    <font size="2" face="Arial" color="#000000">
+                                        <p style="font-size:14px; text-align: left; margin-bottom: 0; margin-top: 20px" class="td-login-txt-right">
+                                            ${order.customerInfo.customerEmail}
+                                        </p>
+                                    </font>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" width="150" class="td-login">
+                                    <font size="2" face="Arial" color="#000000">
+                                        <p style="font-size:14px; text-align: right; margin-bottom: 20px" class="td-login-txt-right">
+                                            <b>Password</b>:&nbsp;
+                                        </p>
+                                    </font>
+                                </td>
+                                <td align="right" width="200" class="td-mdp">
+                                    <font size="2" face="Arial" color="#000000">
+                                        <p style="font-size:14px; text-align: left; margin-bottom: 20px" class="td-login-txt-left">
+                                            ${order.orderPassword}
+                                        </p>
+                                    </font>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="2%">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="2%">&nbsp;</td>
+                    <td width="96%" align="left">
+                        <font size="2" face="Arial" color="#000000">
+                            <p style="font-size:14px; margin-top: 5px">
+                                <br/>
+                            </p>
+                            <p style="font-size:14px; margin-bottom: 20px">
+                                To activate your PieMatrix account, please verify your details and confirm your account.<br/><br/>
+                            </p>
+                        </font>
+                    </td>
+                    <td width="2%">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="2%">&nbsp;</td>
+                    <td width="96%" align="center">
+                        <table align="center" style="margin:0 auto;" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td class="btn" align="center" bgcolor="#eea617" style="font:17px/16px Arial, Helvetica, sans-serif; color:#fff; border-radius:300px;">
+                                    <a customerName="" style="color:#fff; text-decoration:none; display:block; padding:20px; text-transform:uppercase; font-weight:600; letter-spacing:1px;" target="_blank" href="http://www.piematrix.com/" title="Activate my account">Confirm my account</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="2%">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="2%">&nbsp;</td>
+                    <td width="96%" align="left">
+                        <font size="2" face="Arial" color="#000000">
+                            <p style="font-size:14px; margin-top: 20px">
+                                You can change your login information at any time by visiting the &quot;My Account&quot; tab located at <a customerName="" href="http://www.piematrix.com/" style="color: #eea617;">http://www.piematrix.com/</a>.
+                            </p>
+                            <p style="font-size:14px; margin-top: 20px">
+                                For additional information, feel free to contact our expert support team at <br /><b>1-802-318-4891</b>.<br/><br/>
+                            </p>
+                            <p style="font-size:14px;">
+                                Cheers,
+                            </p>
+                            <p style="font-size:14px; margin-bottom: 30px">
+                                The Piematrix Team
+                            </p>
+                        </font>
+                    </td>
+                    <td width="2%">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="2%">&nbsp;</td>
+                    <td width="96%" align="left" style="border-top: 1px solid #dce1e5">&nbsp;</td>
+                    <td width="2%">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="2%">&nbsp;</td>
+                    <td width="96%" align="left">
+                        <table width="100%" cellpadding="0" cellspacing="0" align="left" bgcolor="#ffffff">
+                            <tr>
+                                <td width="100%">
+                                    <font size="2" face="Arial" color="#000000">
+                                        <p style="color:#000000;font-family: Tahoma; font-style:normal; font-size:20px; margin: 0;">
+                                            <img src="cid:did-you-know" alt="Did you know?" width="20" height="20" />
+                                            Did you know?
+                                        </p>
+                                        <p style="font-size:14px; margin-bottom: 0px;">
+                                            Piematrix can capture your experiences, ideas, and lessons learned, and make them come alive as a dynamic solution for everyone to share. Although Pie is robust, there aresome highlights of what makes us different.
+                                        </p>
+                                        <p style="font-size:14px;">
+                                            <b><span style="color: #343943">There are two ways to stay up-to-date on everything Piematrix related...</span></b>
+                                        </p>
+                                    </font>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="2%">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="2%">&nbsp;</td>
+                    <td width="96%" align="left" style="padding: 15px 0">
+                        <table width="7%" cellpadding="0" cellspacing="0" align="left" bgcolor="#ffffff">
+                            <tr>
+                                <td class="icon-td" align="center">
+                                    <img src="cid:newsletter" alt="Newsletter" width="30" height="30" />
+                                </td>
+                            </tr>
+                        </table>
+                        <table width="92%" cellpadding="0" cellspacing="0" align="right" bgcolor="#ffffff">
+                            <tr>
+                                <td height="30">
+                                    <font size="2" face="Arial" color="#000000">
+                                        <p style="font-size:14px; margin: 0">
+                                            <a customerName="" href="" style="color: #eea617;">Subscribe to the PieMatrix monthly newsletter under &quot;My Account >> Personal information&quot;</a>
+                                        </p>
+                                    </font>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="2%">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="2%">&nbsp;</td>
+                    <td width="96%" align="left" style="padding: 15px 0">
+                        <table width="7%" cellpadding="0" cellspacing="0" align="left" bgcolor="#ffffff">
+                            <tr>
+                                <td class="icon-td" align="center">
+                                    <img src="cid:faq" alt="FAQ" width="30" height="30" />
+                                </td>
+                            </tr>
+                        </table>
+                        <table width="92%" cellpadding="0" cellspacing="0" align="right" bgcolor="#ffffff">
+                            <tr>
+                                <td height="30">
+                                    <font size="2" face="Arial" color="#000000">
+                                        <p style="font-size:14px; margin: 0">
+                                            <a customerName="" href="" style="color: #eea617;">If you have questions, we invite you to read our Pie application overview.</a>
+                                        </p>
+                                    </font>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="2%">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="2%">&nbsp;</td>
+                    <td width="96%" align="left">
+                        <table width="100%" cellpadding="0" cellspacing="0" align="left" bgcolor="#ffffff">
+                            <tr>
+                                <td width="100%">
+                                    <font size="2" face="Arial" color="#000000">
+                                        <p style="font-size:14px; margin-bottom: 0px;">
+                                            You are also encouraged to <a customerName="" href="" style="color: #eea617;">contact us</a> anytime.<br/><br/>
+                                        </p>
+                                    </font>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="2%">&nbsp;</td>
+                </tr>
+                <!--  /MAIL CONTENT -->
+            </table>
+        </td>
+    </tr>
+    <!--  /CONTENT -->
+    <!--  FOOTER SOCIAL MEDIA LINKS -->
+    <tr>
+        <td height="68" width="100%" align="left" bgcolor="#333">
+            <font size="2" face="Tahoma">
+                <p style="font-size: 14px; color: #aaaaaa; text-align: center;">
+                    <a customerName="" href="" title="Twitter" target="_blank" style="color: #aaaaaa; text-decoration: none;">
+                        Twitter
+                    </a>  &nbsp;&#149; &nbsp;
+                    <a customerName="" href="" title="Facebook" target="_blank" style="color: #aaaaaa; text-decoration: none;">
+                        Facebook
+                    </a> &nbsp; &#149;  &nbsp;
+                    <a customerName="" href="" title="Google +" target="_blank" style="color: #aaaaaa; text-decoration: none;">
+                        Google +
+                    </a>  &nbsp;&#149; &nbsp;
+                    <a customerName="" href="" title="Instagram" target="_blank" style="color: #aaaaaa; text-decoration: none;">
+                        Instagram
+                    </a>  &nbsp;&#149; &nbsp;
+                    <a customerName="" href="" title="Pinterest" target="_blank" style="color: #aaaaaa; text-decoration: none;">
+                        Pinterest
+                    </a>
+                </p>
+            </font>
+        </td>
+    </tr>
+    <!--  /SOCIAL MEDIA LINKS -->
+    <!--  LEGAL CONTENT -->
+    <tr>
+        <td height="114" width="100%" align="center" valign="top" bgcolor="#1f1f1f">
+            <font size="2" face="Arial" color="#aaaaaa">
+                <p style="font-size:10px; text-align: center;">
+                    <br/>
+                    You received this customerEmail because you are a PieMatrix customer or contributor. Please do not answer this message.<br/><br/>
+                    <a customerName="" href="" style="color: #ccc; text-decoration: underline; border: none"><span style="color:#ccc">Pie Application</span></a>&nbsp; | &nbsp;<a customerName="" href="" style="color: #ccc; text-decoration: underline; border: none"><span style="color:#ccc">Privacy Policy</span></a> &nbsp; | &nbsp;<a customerName="" href="" style="color: #ccc; text-decoration: underline; border: none"><span style="color:#ccc">Contact us</span></a>
+                    <br/><br/>
+                    &copy; 2016 PieMatrix powered by <a customerName="" href="" style="color: #ccc; text-decoration: underline; border: none"><span style="color:#ccc">PieMatrix Inc.</span></a>
+                </p>
+            </font>
+        </td>
+    </tr>
+    <!--  /LEGAL CONTENT -->
+</table>
+</body>
+</html>
